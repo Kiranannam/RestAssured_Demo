@@ -1,2 +1,2 @@
 # RestAssured_Demo
-RestAssured_Demo for Vaapsi training
+RestAssured_Demo for Vapasi training
